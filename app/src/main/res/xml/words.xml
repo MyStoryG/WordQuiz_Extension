@@ -1,0 +1,12 @@
+<resources>
+    <string english="apple" korean="사과" />
+    <string english="banana" korean="바나나" />
+    <string english="camera" korean="카메라" />
+    <string english="data" korean="데이터" />
+    <string english="egg" korean="달걀" />
+    <string english="friday" korean="금요일" />
+    <string english="game" korean="게임" />
+    <string english="hello" korean="안녕" />
+    <string english="ignore" korean="무시하다" />
+    <string english="java" korean="자바" />
+</resources>
